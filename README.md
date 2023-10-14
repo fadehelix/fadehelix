@@ -4,7 +4,7 @@ My name is Adam and I'm agile front-end developer. My current goal is to become 
 
 Why I call myself an "agile" developer? 
 
-Because on of my "drivers" is to understand the business context of my work.
+Because one of my "drivers" is to understand the business context of my work.
 
 <!-- 🔭 I’m currently working on ... -->
 
