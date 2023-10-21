@@ -1,12 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Adam and I'm agile front-end developer. My current goal is to become a Software Architect.
 
 Why I call myself an "agile" developer? 
 
 Because one of my "drivers" is to understand the business context of my work.
-
-<!-- 🔭 I’m currently working on ... -->
 
 🌱 I’m currently learning Angular, .NET and basics of Software Architecture
 
@@ -15,3 +13,9 @@ Because one of my "drivers" is to understand the business context of my work.
 💬 Ask me about Agile, Scrum, React, Web Development
 
 :trophy: My most recent achievement: PAL-I (Professional Agile Leadership 1) certificate.
+
+### My front-end tech stack:
+- React
+- Docker
+- Typescript
+- Material UI (MUI)
