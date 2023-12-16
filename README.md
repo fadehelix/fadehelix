@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Codewars](https://www.codewars.com/users/fadehelix/badges/small)
+
 My name is Adam and I'm agile front-end developer. My current goal is to become a Software Architect.
 
 Why I call myself an "agile" developer? 
